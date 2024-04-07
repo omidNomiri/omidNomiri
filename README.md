@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm omidNomiri, a student who wants to become a data engineer.
+# About Me:
+👋 Hi, I'm omidNomiri, a student who wants to become a data science.
 <br>
 🤝 Seeking an internship opportunity at a tech company.
 <br> 
