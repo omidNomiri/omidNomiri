@@ -3,7 +3,7 @@
 <br>
 🤝 Seeking an internship opportunity at a tech company.
 <br> 
-🌱 I'm currently learning machine-learning.
+🌱 I'm currently learning deep-learning.
 <br><br> 
 📫 How to reach me:<br>
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omid-nomiri-8153432b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
